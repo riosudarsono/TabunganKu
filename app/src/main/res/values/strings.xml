@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabunganKu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="saldo_ku">Saldo Ku</string>
+    <string name="ayo_menabung">Ayo Menabung</string>
+    <string name="hemat_pangkal_kaya">Hemat Pangkal Kaya</string>
+    <string name="home_text">Yuk,! Ubah kebiasaan boros anda dengan belajar menabung</string>
+    <string name="simpan">Simpan</string>
+    <string name="tabung_text">Masukkan jumlah uang yang akan di tabung</string>
+    <string name="jumlah_uang">Jumlah Uang</string>
+    <string name="catatan_menabung">Catatan Menabung</string>
+</resources>
